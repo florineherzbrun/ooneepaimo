@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaekuifu.qastudy.online/sitemap.xml
